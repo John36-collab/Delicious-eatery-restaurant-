@@ -1,10 +1,4 @@
----
-
-README.md
-
-🍽️ Project: Delicious Eatery Homepage
-
-This project is a simple, well-structured HTML5 page for a fictional restaurant called Delicious Eatery. The code is built with clarity and semantic structure in mind, ideal for beginners learning modern HTML layout principles.
+Ideal for beginners learning modern HTML layout principles.
 
 
 ---
